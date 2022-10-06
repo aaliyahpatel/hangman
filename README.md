@@ -20,6 +20,13 @@ Defined functions to tidy up code and added a 'while' loop which runs the code u
 
 # Milstone 3
 
+ Created a class and initialised the below attributes and added the above mentioned functions to ensure it all runs smoothly.
 
+<img width="447" alt="Screenshot 2022-10-06 at 19 13 34" src="https://user-images.githubusercontent.com/115017870/194388029-1100ab44-02cb-4931-a332-acb2dfb6e477.png">
 
+# Milestone 4
+
+Added some ASCII art to improve the user interface, and tidied up code.
+
+<img width="475" alt="Screenshot 2022-10-06 at 19 16 01" src="https://user-images.githubusercontent.com/115017870/194388515-3ceddc26-e390-47fc-aac4-c609b8d6ac56.png">
 

@@ -12,7 +12,7 @@ Created a list and imported random module to randomly select from list. Asked fo
 
 # Milestone 2
 
-defined functions to tidy up code
+Defined functions to tidy up code and added a 'while' loop which runs the code until the conditions stop being met.
 
 <img width="599" alt="Screenshot 2022-10-06 at 18 56 54" src="https://user-images.githubusercontent.com/115017870/194385022-37d817fe-4f1f-474c-803b-24ab98b3d42b.png">
 

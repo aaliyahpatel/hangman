@@ -3,7 +3,7 @@ Hangman is a classic game in which a player thinks of a word and the other playe
 
 This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
 
-Milestone 1
+#Milestone 1
 
 created a list and imported random module to randomly select from list. Created user input with if statement to check against input.
 

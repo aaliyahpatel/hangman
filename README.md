@@ -5,13 +5,21 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 
 # Milestone 1
 
-created a list and imported random module to randomly select from list. Created user input with if statement to check against input.
+Created a list and imported random module to randomly select from list. Asked for user input and confirmed that they only input one character.
 
-Milestone 2
+<img width="585" alt="Screenshot 2022-10-06 at 18 55 06" src="https://user-images.githubusercontent.com/115017870/194384708-0be6e34a-0577-45fb-a33b-b6da64fadc8c.png">
+
+
+# Milestone 2
 
 defined functions to tidy up code
 
-Milstone 3
+<img width="599" alt="Screenshot 2022-10-06 at 18 56 54" src="https://user-images.githubusercontent.com/115017870/194385022-37d817fe-4f1f-474c-803b-24ab98b3d42b.png">
 
 
-<img width="617" alt="Screenshot 2022-10-06 at 17 23 42" src="https://user-images.githubusercontent.com/115017870/194366892-2766a86d-fe41-4550-b67f-8d66ee7c8b24.png">
+
+# Milstone 3
+
+
+
+

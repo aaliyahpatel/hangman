@@ -7,6 +7,11 @@ Milestone 1
 
 created a list and imported random module to randomly select from list. Created user input with if statement to check against input.
 
-Milestonw 2
+Milestone 2
 
 defined functions to tidy up code
+
+Milstone 3
+
+
+<img width="617" alt="Screenshot 2022-10-06 at 17 23 42" src="https://user-images.githubusercontent.com/115017870/194366892-2766a86d-fe41-4550-b67f-8d66ee7c8b24.png">
